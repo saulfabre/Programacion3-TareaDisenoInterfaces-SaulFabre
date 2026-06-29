@@ -20,7 +20,11 @@ Programación 3
 - ComboBox
 - CheckBox
 - Button
+- RadioButton
+- ToggleGroup
+- Circle
 - TableView
+- ListView
 - ListView
 - TextArea
 - TableColumn
