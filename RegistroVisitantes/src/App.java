@@ -101,9 +101,9 @@ public class App extends Application {
         Button btnLimpiar = new Button("Limpiar");
         Button btnCancelar = new Button("Cancelar");
 
-        btnRegistrar.setStyle("-fx-background-color: #28a745; -fx-text-fill: white;");
-        btnLimpiar.setStyle("-fx-background-color: #007bff; -fx-text-fill: white;");
-        btnCancelar.setStyle("-fx-background-color: #dc3545; -fx-text-fill: white;");
+        btnRegistrar.setStyle("-fx-background-color: #83838382; -fx-text-fill: white;");
+        btnLimpiar.setStyle("-fx-background-color: #83838382; -fx-text-fill: white;");
+        btnCancelar.setStyle("-fx-background-color: #83838382; -fx-text-fill: white;");
 
         HBox botones = new HBox();
         botones.getChildren().addAll(btnRegistrar, btnLimpiar, btnCancelar);
